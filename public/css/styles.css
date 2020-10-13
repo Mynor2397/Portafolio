@@ -1,0 +1,27 @@
+.bg-black-alt {
+    background: #191919;
+}
+
+.text-black-alt {
+    color: #191919;
+}
+
+.border-black-alt {
+    border-color: #191919;
+}
+
+.zoom {
+    transition: transform .2s; 
+}
+ 
+.zoom:hover {
+    transform: scale(1.5); 
+}
+
+.zoom:hover {
+    transform: scale(1.5); 
+}
+
+.zoom {
+    transition: transform .2s; 
+}
